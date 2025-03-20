@@ -2,10 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'export', // Enable static exports for GitHub Pages
-  // Adjust the following based on your repository name
-  // For username.github.io repositories, you can leave basePath as ''
-  // For project repositories (username.github.io/repo-name), use '/repo-name'
-  basePath: '/personal-website',
+  // For username.github.io repositories, basePath should be empty
+  basePath: '',
   images: {
     unoptimized: true, // Required for static exports
     remotePatterns: [
