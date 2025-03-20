@@ -35,12 +35,12 @@ export default function Resume() {
               <h2 className="heading-lg text-gray-900 dark:text-white mb-4">Atreya Ray</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div>
-                  <p className="text-gray-600 dark:text-gray-300">Data Scientist & Software Engineer</p>
-                  <p className="text-gray-600 dark:text-gray-300">San Francisco, CA</p>
+                  <p className="text-gray-600 dark:text-gray-300">Data Scientist</p>
+                  <p className="text-gray-600 dark:text-gray-300">Espoo, Finland</p>
                 </div>
                 <div className="md:text-right">
-                  <p className="text-gray-600 dark:text-gray-300">atreyahray@gmail.com</p>
-                  <p className="text-gray-600 dark:text-gray-300">linkedin.com/in/atreya-ray</p>
+                  <p className="text-gray-600 dark:text-gray-300">atreyaray@gmail.com</p>
+                  <p className="text-gray-600 dark:text-gray-300">linkedin.com/in/atreyaray/</p>
                 </div>
               </div>
             </div>
@@ -51,42 +51,56 @@ export default function Resume() {
               <div className="space-y-8">
                 <div>
                   <div className="flex flex-wrap justify-between items-start mb-2">
-                    <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Senior Data Scientist</h4>
-                    <span className="text-accent dark:text-blue-400">2022 - Present</span>
+                    <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Data Scientist - Finance Analytics</h4>
+                    <span className="text-accent dark:text-blue-400">Jan 2025 - Present</span>
                   </div>
-                  <p className="text-lg text-gray-700 dark:text-gray-200 mb-2">Google, San Francisco</p>
+                  <p className="text-lg text-gray-700 dark:text-gray-200 mb-2">KONE Oyj, Espoo</p>
                   <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-1">
-                    <li>Lead a team of 5 data scientists working on recommendation systems that improved user engagement by 28%</li>
-                    <li>Developed machine learning models for content personalization using TensorFlow and PyTorch</li>
-                    <li>Collaborated with product and engineering teams to implement data-driven features</li>
-                    <li>Mentored junior data scientists and oversaw the development of ML infrastructure</li>
+                    <li>Developing and deploying large language models for various applications</li>
+                    <li>Implementing and evaluating model architectures for improved performance</li>
+                    <li>Collaborating with research teams to implement novel ML techniques</li>
                   </ul>
                 </div>
                 
                 <div>
                   <div className="flex flex-wrap justify-between items-start mb-2">
-                    <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Software Engineer</h4>
-                    <span className="text-accent dark:text-blue-400">2020 - 2022</span>
+                    <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Data Scientist Trainee - Finance Analytics</h4>
+                    <span className="text-accent dark:text-blue-400">May 2024 - Dec 2024</span>
                   </div>
-                  <p className="text-lg text-gray-700 dark:text-gray-200 mb-2">Microsoft, Seattle</p>
+                  <p className="text-lg text-gray-700 dark:text-gray-200 mb-2">KONE Oyj, Espoo</p>
                   <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-1">
-                    <li>Designed and implemented cloud-based services using Azure and .NET Core</li>
-                    <li>Improved system performance by 40% through code optimization and architectural changes</li>
-                    <li>Built data pipelines for large-scale data processing and analytics</li>
-                    <li>Contributed to open-source projects and internal frameworks</li>
+                    <li>💰 Financial Planning & Analysis Team</li>
+                    <li>📈 Developed forecasting tools modelling financial data to predict KPIs contributing
+                    to sales for the KONE services business (&gt;$4bn) .</li>
+                    <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-1">
+                        <li>Piloted integration of prediction models reducing error in human generated
+                        financial planning forecasts by ~62%.</li>
+                        <li>Performed ETL on large financial datasets (2mn+ rows) spanning 4 continents
+                        requiring parallelisation and distributed workflows with Spark.</li>
+                    </ul>
                   </ul>
                 </div>
-                
+
                 <div>
                   <div className="flex flex-wrap justify-between items-start mb-2">
-                    <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Data Science Intern</h4>
-                    <span className="text-accent dark:text-blue-400">Summer 2019</span>
+                    <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Data Scientist Trainee</h4>
+                    <span className="text-accent dark:text-blue-400">Jan 2024 - Apr 2024</span>
                   </div>
-                  <p className="text-lg text-gray-700 dark:text-gray-200 mb-2">Amazon, Seattle</p>
+                  <p className="text-lg text-gray-700 dark:text-gray-200 mb-2">Nokia Technologies, Espoo</p>
                   <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-1">
-                    <li>Developed algorithms for inventory optimization and demand forecasting</li>
-                    <li>Created visualization dashboards to monitor supply chain metrics</li>
-                    <li>Presented findings to senior management and technical teams</li>
+                    <li>📄 Patent Analytics at Nokia Technologies</li>
+                    <li>📈 Data Science:</li>
+                    <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-1">
+                        <li>Forecasted future patent submissions according to Technology
+                        Area using time series and other deep learning models.</li>
+                    </ul>
+                    <li>📊 Data Analysis:</li>
+                    <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-1">
+                        <li>Analysed patent submission data, to create interactive data dashboards with
+                        Microsoft Power BI</li>
+                        <li>Produced essential KPI-driven analytics to support and improve upper-
+                        management decision-making processes</li>
+                    </ul>
                   </ul>
                 </div>
               </div>
@@ -99,21 +113,21 @@ export default function Resume() {
                 <div>
                   <div className="flex flex-wrap justify-between items-start mb-1">
                     <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Master of Science in Computer Science</h4>
-                    <span className="text-accent dark:text-blue-400">2020 - 2022</span>
+                    <span className="text-accent dark:text-blue-400">2019 - 2021</span>
                   </div>
                   <p className="text-lg text-gray-700 dark:text-gray-200 mb-2">Stanford University</p>
-                  <p className="text-gray-600 dark:text-gray-300">Specialization in Machine Learning and Data Science</p>
-                  <p className="text-gray-600 dark:text-gray-300">GPA: 3.9/4.0</p>
+                  <p className="text-gray-600 dark:text-gray-300">Specialization in Artificial Intelligence</p>
+                  <p className="text-gray-600 dark:text-gray-300">GPA: 4.0/4.0</p>
                 </div>
                 
                 <div>
                   <div className="flex flex-wrap justify-between items-start mb-1">
-                    <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Bachelor of Engineering in Computer Science</h4>
-                    <span className="text-accent dark:text-blue-400">2016 - 2020</span>
+                    <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Bachelor of Science in Computer Science</h4>
+                    <span className="text-accent dark:text-blue-400">2015 - 2019</span>
                   </div>
-                  <p className="text-lg text-gray-700 dark:text-gray-200 mb-2">Massachusetts Institute of Technology (MIT)</p>
+                  <p className="text-lg text-gray-700 dark:text-gray-200 mb-2">Stanford University</p>
                   <p className="text-gray-600 dark:text-gray-300">Minor in Mathematics</p>
-                  <p className="text-gray-600 dark:text-gray-300">GPA: 3.8/4.0</p>
+                  <p className="text-gray-600 dark:text-gray-300">GPA: 3.95/4.0</p>
                 </div>
               </div>
             </div>
@@ -126,57 +140,47 @@ export default function Resume() {
                   <h4 className="text-lg font-semibold text-gray-900 dark:text-white mb-3">Programming Languages</h4>
                   <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-1">
                     <li>Python (Expert)</li>
+                    <li>C++ (Advanced)</li>
                     <li>JavaScript/TypeScript (Advanced)</li>
-                    <li>Java (Intermediate)</li>
-                    <li>R (Advanced)</li>
                     <li>SQL (Advanced)</li>
+                    <li>Java (Intermediate)</li>
                   </ul>
                 </div>
                 
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900 dark:text-white mb-3">Technologies & Frameworks</h4>
                   <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-1">
-                    <li>TensorFlow, PyTorch, Scikit-learn</li>
+                    <li>PyTorch, TensorFlow, JAX</li>
                     <li>React, Next.js, Node.js</li>
                     <li>Docker, Kubernetes</li>
-                    <li>AWS, Azure, GCP</li>
-                    <li>MongoDB, PostgreSQL</li>
+                    <li>AWS, GCP</li>
+                    <li>Git, CI/CD</li>
                   </ul>
                 </div>
                 
                 <div>
-                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white mb-3">Soft Skills</h4>
+                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white mb-3">Areas of Expertise</h4>
                   <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-1">
-                    <li>Technical Leadership</li>
-                    <li>Project Management</li>
-                    <li>Data Communication & Visualization</li>
-                    <li>Cross-functional Collaboration</li>
-                    <li>Problem Solving & Critical Thinking</li>
+                    <li>Machine Learning</li>
+                    <li>Deep Learning</li>
+                    <li>Natural Language Processing</li>
+                    <li>Computer Vision</li>
+                    <li>Software Engineering</li>
                   </ul>
                 </div>
               </div>
             </div>
 
-            {/* Publications & Certifications */}
+            {/* Projects & Publications */}
             <div>
-              <h3 className="heading-md text-gray-900 dark:text-white mb-6">Publications & Certifications</h3>
+              <h3 className="heading-md text-gray-900 dark:text-white mb-6">Selected Projects</h3>
               <div className="space-y-4">
-                <div>
-                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">Publications</h4>
-                  <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-2">
-                    <li>"Machine Learning Applications in Healthcare: A Comprehensive Review" - Journal of AI in Medicine, 2022</li>
-                    <li>"Optimizing Recommendation Systems for E-commerce Platforms" - International Conference on Data Science, 2021</li>
-                  </ul>
-                </div>
-                
-                <div className="mt-6">
-                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">Certifications</h4>
-                  <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-2">
-                    <li>AWS Certified Machine Learning Specialty</li>
-                    <li>Google Professional Data Engineer</li>
-                    <li>TensorFlow Developer Certificate</li>
-                  </ul>
-                </div>
+                <ul className="list-disc list-outside pl-5 text-gray-600 dark:text-gray-300 space-y-2">
+                  <li>Developed a real-time object detection system using deep learning for autonomous vehicles</li>
+                  <li>Built a natural language processing pipeline for sentiment analysis and text classification</li>
+                  <li>Created a distributed machine learning system for large-scale data processing</li>
+                  <li>Implemented a recommendation system using collaborative filtering and deep learning</li>
+                </ul>
               </div>
             </div>
           </div>
