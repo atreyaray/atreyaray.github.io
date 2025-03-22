@@ -174,10 +174,10 @@ export default function Contact() {
                     <div className="ml-4">
                       <p className="text-sm font-medium text-gray-900 dark:text-white">Email</p>
                       <a 
-                        href="mailto:atreyahray@gmail.com" 
+                        href="mailto:atreyaray@gmail.com" 
                         className="text-gray-600 dark:text-gray-300 hover:text-accent dark:hover:text-blue-400"
                       >
-                        atreyahray@gmail.com
+                        atreyaray@gmail.com
                       </a>
                     </div>
                   </div>
@@ -188,7 +188,7 @@ export default function Contact() {
                     <div className="ml-4">
                       <p className="text-sm font-medium text-gray-900 dark:text-white">Location</p>
                       <p className="text-gray-600 dark:text-gray-300">
-                        San Francisco, California
+                        Espoo, Finland
                       </p>
                     </div>
                   </div>
@@ -199,7 +199,7 @@ export default function Contact() {
                     <div className="ml-4">
                       <p className="text-sm font-medium text-gray-900 dark:text-white">Phone</p>
                       <p className="text-gray-600 dark:text-gray-300">
-                        +1 (555) 123-4567
+                        +358 451285227
                       </p>
                     </div>
                   </div>
@@ -216,7 +216,7 @@ export default function Contact() {
                     <FiGithub className="h-6 w-6" />
                   </Link>
                   <Link
-                    href="https://linkedin.com/in/atreya-ray"
+                    href="https://www.linkedin.com/in/atreyaray/"
                     target="_blank"
                     className="text-gray-500 hover:text-accent dark:text-gray-400 dark:hover:text-blue-400"
                   >

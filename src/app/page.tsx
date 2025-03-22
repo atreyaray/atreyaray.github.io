@@ -29,7 +29,7 @@ export default function Home() {
               <div className="w-64 h-64 sm:w-80 sm:h-80 relative rounded-full overflow-hidden border-4 border-accent/20 dark:border-blue-500/20 shadow-xl">
                 {/* Replace with your profile image */}
                 <Image 
-                  src="/profile-placeholder.jpg" 
+                  src="/profile-picture.jpeg" 
                   alt="Atreya Ray" 
                   fill 
                   style={{objectFit: 'cover'}}

@@ -55,7 +55,7 @@ export default function About() {
               <div className="sticky top-32">
                 <div className="mb-8 rounded-xl overflow-hidden border border-gray-200 dark:border-gray-800">
                   <Image 
-                    src="/profile-placeholder.jpg" 
+                    src="/profile-picture.jpeg" 
                     alt="Atreya Ray" 
                     width={400}
                     height={500}
