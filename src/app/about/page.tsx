@@ -172,7 +172,25 @@ export default function About() {
                   </h4>
                   <p className="text-accent dark:text-blue-400 mb-2">Nokia, Jan 2023 - Apr 2024</p>
                   <p className="text-gray-600 dark:text-gray-300">
-                  Patent Analytics at Nokia Technologies
+                  📜 Patent Analytics at Nokia Technologies
+                  </p>
+                </div>
+                <div className="card p-6">
+                  <h4 className="text-xl font-semibold text-gray-900 dark:text-white">
+                    Research Trainee
+                  </h4>
+                  <p className="text-accent dark:text-blue-400 mb-2">Ericsson, Apr 2022 - Oct 2022</p>
+                  <p className="text-gray-600 dark:text-gray-300">
+                  ⚙️ Intelligence Orchestration through Workflows
+                  </p>
+                </div>
+                <div className="card p-6">
+                  <h4 className="text-xl font-semibold text-gray-900 dark:text-white">
+                    Analyst Intern
+                  </h4>
+                  <p className="text-accent dark:text-blue-400 mb-2">Deloitte, Jul 2020 - Aug 2020</p>
+                  <p className="text-gray-600 dark:text-gray-300">
+                  Strategy, Analytics and M&A team. 
                   </p>
                 </div>
               </div>
