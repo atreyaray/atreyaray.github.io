@@ -15,7 +15,7 @@ export default function Footer() {
             <FiGithub className="h-6 w-6" aria-hidden="true" />
           </Link>
           <Link 
-            href="https://linkedin.com/in/atreya-ray" 
+            href="https://www.linkedin.com/in/atreyaray/" 
             target="_blank" 
             className="text-gray-500 hover:text-accent dark:text-gray-400 dark:hover:text-blue-400"
           >
