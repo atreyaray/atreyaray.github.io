@@ -122,7 +122,7 @@ export default function About() {
               <div className="space-y-8">
                 <div className="card p-6">
                   <h4 className="text-xl font-semibold text-gray-900 dark:text-white">
-                    Master of Science (Tech), Machine Learning, Data Science and Artificial Intelligence
+                    Master of Science (Tech) in Machine Learning, Data Science and Artificial Intelligence
                   </h4>
                   <p className="text-accent dark:text-blue-400 mb-2">Aalto University, 2022-</p>
                   <p className="text-gray-600 dark:text-gray-300">

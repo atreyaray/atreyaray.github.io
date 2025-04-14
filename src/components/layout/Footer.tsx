@@ -23,7 +23,7 @@ export default function Footer() {
             <FiLinkedin className="h-6 w-6" aria-hidden="true" />
           </Link>
           <Link 
-            href="mailto:atreyahray@gmail.com" 
+            href="mailto:atreyaray@gmail.com" 
             className="text-gray-500 hover:text-accent dark:text-gray-400 dark:hover:text-blue-400"
           >
             <span className="sr-only">Email</span>
