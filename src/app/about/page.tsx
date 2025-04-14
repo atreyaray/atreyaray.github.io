@@ -122,21 +122,26 @@ export default function About() {
               <div className="space-y-8">
                 <div className="card p-6">
                   <h4 className="text-xl font-semibold text-gray-900 dark:text-white">
-                    Master of Science in Computer Science
+                    Master of Science (Tech), Machine Learning, Data Science and Artificial Intelligence
                   </h4>
-                  <p className="text-accent dark:text-blue-400 mb-2">Stanford University, 2020-2022</p>
+                  <p className="text-accent dark:text-blue-400 mb-2">Aalto University, 2022-</p>
                   <p className="text-gray-600 dark:text-gray-300">
-                    Specialized in Machine Learning and Data Science. Thesis on predictive modeling for 
-                    healthcare applications.
+                  Grade: GPA: 4,58/5
+                  </p>
+                  <p className="text-gray-600 dark:text-gray-300">
+                  Relevant Coursework: Reinforcement Learning, Federated Learning, Speech Processing, Speech Recognition, Statistical Natural Language Processing, Gaussian Processes, ML: Advanced Probabilistic Methods.
                   </p>
                 </div>
                 <div className="card p-6">
                   <h4 className="text-xl font-semibold text-gray-900 dark:text-white">
-                    Bachelor of Engineering in Computer Science
+                    Bachelor of Science (Tech) in Data Science
                   </h4>
-                  <p className="text-accent dark:text-blue-400 mb-2">MIT, 2016-2020</p>
+                  <p className="text-accent dark:text-blue-400 mb-2">Aalto University, 2019-2022</p>
                   <p className="text-gray-600 dark:text-gray-300">
-                    Graduated with honors. Focused on algorithms, software engineering, and mathematical foundations.
+                    GPA: 4,85/5. Minor in Economics.
+                  </p>
+                  <p className="text-gray-600 dark:text-gray-300">
+                    Relevant Coursework: Data Science, Artificial Intelligence, Machine Learning, Databases, Statistical Inference, Principles of Algorithmic Techniques, Operating Systems, Data Structures and Algorithms.
                   </p>
                 </div>
               </div>
@@ -146,20 +151,28 @@ export default function About() {
               <div className="space-y-8">
                 <div className="card p-6">
                   <h4 className="text-xl font-semibold text-gray-900 dark:text-white">
-                    Senior Data Scientist
+                    Data Scientist
                   </h4>
-                  <p className="text-accent dark:text-blue-400 mb-2">Google, 2022-Present</p>
+                  <p className="text-accent dark:text-blue-400 mb-2">KONE Oyj, 2025 -Present</p>
                   <p className="text-gray-600 dark:text-gray-300">
-                    Developing machine learning models for recommendation systems and leading a team of data analysts.
+                    Developed prediction models for consolidated financial figures and other key financial metrics.
+                  </p>
+                  <br></br>
+                  <h4 className="text-xl font-semibold text-gray-900 dark:text-white">
+                    Data Scientist Trainee, Finance
+                  </h4>
+                  <p className="text-accent dark:text-blue-400 mb-2">KONE Oyj, May 2024 - Dec 2024</p>
+                  <p className="text-gray-600 dark:text-gray-300">
+                  💰 Financial Planning & Analysis Team
                   </p>
                 </div>
                 <div className="card p-6">
                   <h4 className="text-xl font-semibold text-gray-900 dark:text-white">
-                    Software Engineer
+                    Data Scientist Trainee
                   </h4>
-                  <p className="text-accent dark:text-blue-400 mb-2">Microsoft, 2020-2022</p>
+                  <p className="text-accent dark:text-blue-400 mb-2">Nokia, Jan 2023 - Apr 2024</p>
                   <p className="text-gray-600 dark:text-gray-300">
-                    Worked on cloud infrastructure and backend services, improving efficiency and scalability.
+                  Patent Analytics at Nokia Technologies
                   </p>
                 </div>
               </div>

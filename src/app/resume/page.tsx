@@ -122,7 +122,7 @@ export default function Resume() {
                 
                 <div>
                   <div className="flex flex-wrap justify-between items-start mb-1">
-                    <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Bachelor of Science in Computer Science</h4>
+                    <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Bachelor of Science (Technology)in Data Science</h4>
                     <span className="text-accent dark:text-blue-400">2015 - 2019</span>
                   </div>
                   <p className="text-lg text-gray-700 dark:text-gray-200 mb-2">Stanford University</p>
